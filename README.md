@@ -23,11 +23,10 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - React
 - Tailwind Css
 - Vite
-- 
 
 ### Screenshot
 
-![Design preview for the Advice Generator App coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the Advice Generator App coding challenge](https://github.com/brycezubi/advice-generator-api/blob/gh-pages/design/desktop-preview.jpg)
 
 ### Links
 
